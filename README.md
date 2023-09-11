@@ -1,2 +1,2 @@
-# QuantumultX configuration for self-use
-## Collected from Internet
+## QuantumultX configuration for self-use
+### Collected from Internet
